@@ -1,0 +1,8 @@
+const UserActionTypes = {
+  SET_USERS: "SET_USERS",
+  DELETE_USER_START: "DELETE_USER_START",
+  DELETE_USER_FINISH: "DELETE_USER_FINISH",
+  DELETE_USER_CANCEL: "DELETE_USER_CANCEL",
+};
+
+export default UserActionTypes;

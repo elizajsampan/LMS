@@ -1,0 +1,6 @@
+const ThemeActionTypes = {
+  SHOW_TOAST_NOTIFICATION: "SHOW_TOAST_NOTIFICATION",
+  HIDE_TOAST_NOTIFICATION: "HIDE_TOAST_NOTIFICATION",
+};
+
+export default ThemeActionTypes;
