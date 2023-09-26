@@ -1,8 +1,0 @@
-const MyCoursesActionTypes = {
-  GET_MY_COURSES: "GET_MY_COURSE",
-  ADD_TO_MY_COURSES: "ADD_TO_MY_COURSE",
-  REMOVE_FROM_MY_COURSES: "REMOVE_FROM_MY_COURSES",
-  RESET_MY_COURSES: "RESET_MY_COURSES",
-};
-
-export default MyCoursesActionTypes;
